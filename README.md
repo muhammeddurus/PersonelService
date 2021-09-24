@@ -3,7 +3,7 @@
 ## Uygulamaya giriş yapan personellerin  mesai takiplerinin sağlanması amaçlanmıştır.
 
 #Açılış Ekranı
-![splash](https://i.hizliresim.com/bht9ht6.png)
+![splash](https://i.resmim.net/Lo3Zy.png)
 
 #Login Ekranı
 ![splash](https://i.resmim.net/Lo3Zy.png)
