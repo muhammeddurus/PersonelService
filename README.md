@@ -3,16 +3,16 @@
 ## Uygulamaya giriş yapan personellerin  mesai takiplerinin sağlanması amaçlanmıştır.
 
 #Açılış Ekranı
-![splash](https://i.resmim.net/Lo3Zy.png)
+![splash](https://i.hizliresim.com/pakmzsa.png)
 
 #Login Ekranı
-![splash](https://i.resmim.net/Lo3Zy.png)
+![login](https://i.hizliresim.com/9w7nk48.png)
 
 #Personel Ekranı
-![splash](https://i.resmim.net/LoBqb.png)
-![splash](https://i.resmim.net/LoYdZ.png)
-![splash](https://i.resmim.net/Lobs6.png)
-![splash](https://i.resmim.net/LoeG8.png)
+![personel](https://i.hizliresim.com/eztmtl4.png)
+![mesaiB](https://i.hizliresim.com/ab23gi0.png)
+![mesaibitir](https://i.hizliresim.com/tlmh888.png)
+![detay](https://i.hizliresim.com/ixahcp8.png)
 
 ## Uygulamaya giriş yapan personellerin  mesai takiplerinin sağlanması amaçlanmıştır.
 
